@@ -3,7 +3,7 @@ This repo documents my transition into Data analytics & AI. I will be adding Pro
 
 # Repo Structure
 ## Datasets
-- netflix Movies & TV shows dataset 
+- Netflix Movies & TV shows dataset 
 
 ## notebooks
 
