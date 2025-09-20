@@ -2,13 +2,14 @@
 This repo documents my transition into Data analytics & AI. I will be adding Projects in Python, Power BI, and automation
 
 # Repo Structure
-Datasets
+## Datasets
+- netflix Movies & TV shows dataset 
 
-notebooks
+## notebooks
 
-dashboards
+## dashboards
 
-docs
+## docs
 
 Readme
 # Goal
